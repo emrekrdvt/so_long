@@ -16,4 +16,4 @@ git clone git@github.com:emrekrdvt/so_long.git
 
 ````
 
-[url=https://www.hizliresim.com/dnh6cgl][img]https://i.hizliresim.com/dnh6cgl.png[/img][/url]
+![Image](https://i.hizliresim.com/dnh6cgl.png)
