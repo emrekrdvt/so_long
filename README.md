@@ -1,4 +1,4 @@
-# Simple game with Minilibx library
+# Simple game with Minilibx
 
 ## Installation
 
