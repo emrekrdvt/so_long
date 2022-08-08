@@ -16,4 +16,4 @@ git clone git@github.com:emrekrdvt/so_long.git
 
 ````
 
-![Image](https://prnt.sc/DjY42zei4nJU)
+
